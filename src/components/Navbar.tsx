@@ -52,11 +52,11 @@ const Navbar = () => {
             e.preventDefault();
             scrollToTop();
           }}
-          aria-label="Pulse Robot"
+          aria-label="K & EIGHT"
         >
           <img 
-            src="/logo.svg" 
-            alt="Pulse Robot Logo" 
+            src="/lovable-uploads/47ea9e6e-1c1f-440c-a30f-d02d34c5b150.png" 
+            alt="K & EIGHT Logo"
             className="h-7 sm:h-8" 
           />
         </a>
