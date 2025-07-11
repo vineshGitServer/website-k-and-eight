@@ -10,7 +10,7 @@ const MadeByHumans = () => {
           backgroundImage: "url('/background-section3.png')"
         }}>
             <div className="flex items-center text-white">
-              <img src="/lovable-uploads/47ea9e6e-1c1f-440c-a30f-d02d34c5b150.png" alt="K & EIGHT Logo" className="h-5 sm:h-6 w-auto mr-3" />
+              <img src="/lovable-uploads/47ea9e6e-1c1f-440c-a30f-d02d34c5b150.png" alt="K & EIGHT Logo" className="h-15 sm:h-18 w-auto mr-3 mix-blend-overlay opacity-90" />
               <span className="text-white text-xl font-medium">
             </span>
             </div>

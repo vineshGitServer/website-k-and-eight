@@ -57,7 +57,7 @@ const Navbar = () => {
           <img 
             src="/lovable-uploads/47ea9e6e-1c1f-440c-a30f-d02d34c5b150.png" 
             alt="K & EIGHT Logo"
-            className="h-7 sm:h-8" 
+            className="h-21 sm:h-24 mix-blend-multiply opacity-80" 
           />
         </a>
 
