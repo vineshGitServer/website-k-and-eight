@@ -62,7 +62,7 @@ const Navbar = () => {
         </a>
 
         {/* Desktop Navigation */}
-        <nav className="hidden md:flex space-x-8">
+        <nav className="hidden md:flex space-x-8 -mt-2">
           <a 
             href="#" 
             className="nav-link"
