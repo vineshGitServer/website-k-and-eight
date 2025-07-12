@@ -166,7 +166,7 @@ const Hero = () => {
                   ref={imageRef} 
                   src="/lovable-uploads/ddfd50f5-fe39-4262-b06f-ab88a8372418.png" 
                   alt="Atlas Robot" 
-                  className="w-4/5 h-auto object-cover transition-transform duration-500 ease-out mx-auto" 
+                  className="w-full h-auto object-cover transition-transform duration-500 ease-out" 
                   style={{ transformStyle: 'preserve-3d' }} 
                 />
               </div>
